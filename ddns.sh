@@ -1,5 +1,9 @@
 #!/bin/bash
 
+## as the original author(pztop) may forget the script, I create my own.
+## this script is to update your namesilo DNS record with your current IP.
+## create a cron so the script can run periodcaly in order the keep your DNS record up to date.
+
 ##=================================
 ##added by alphazealot 20200411
 ## Add some colors for debug purpose.
